@@ -1,0 +1,18 @@
+#a{
+    color: rgb(27, 0, 27);
+    font-size: 20px;
+}
+.b{
+    color: rgb(27, 0, 27);
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+body {
+    width: 600px;
+    margin:0 auto;
+    background-color: #8800ff;
+    padding: 0 10px 10px 10px;
+    border: 5px solid rgb(42, 1, 91);
+    text-align: center;
+  }
